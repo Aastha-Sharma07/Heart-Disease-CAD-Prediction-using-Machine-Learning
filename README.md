@@ -30,8 +30,6 @@ The workflow followed in this project:
 * XGBoost Classifier
 * Additional baseline models from Scikit-learn
 
-These models were trained and evaluated to compare performance and identify the most effective approach for CAD prediction.
-
 ---
 
 ## 📊 Evaluation Metrics
@@ -43,20 +41,23 @@ The models were evaluated using:
 * Classification Report (Precision, Recall, F1-score)
 * ROC Curve and AUC Score
 
-These metrics provide a comprehensive understanding of model performance, especially for imbalanced datasets.
-
 ---
 
 ## 📊 Results
 
 ### Model Comparison
+
 ![Model Comparison](images/model_comparison.png)
 
 ### Confusion Matrices
+
 ![Confusion Matrices](images/confusion_matrices.png)
 
 ### SHAP Summary Plot
+
 ![SHAP Summary](images/shap_summary.png)
+
+---
 
 ## 🔍 Explainability
 
@@ -65,8 +66,6 @@ To improve model transparency, SHAP was used to:
 * Understand feature importance
 * Analyze how individual features contribute to predictions
 * Provide interpretability for model decisions
-
-This is particularly important in healthcare-related applications.
 
 ---
 
@@ -86,14 +85,16 @@ This is particularly important in healthcare-related applications.
 
 ## 📁 Project Structure
 
+```
 Heart-Disease-CAD-Prediction-using-Machine-Learning/
 │── CAD-hybrid-model.ipynb
 │── requirements.txt
 │── README.md
 │── images/
-      ├── roc_curve.png
-      ├── confusion_matrix.png
-      ├── shap_summary.png
+│    ├── model_comparison.png
+│    ├── confusion_matrices.png
+│    ├── shap_summary.png
+```
 
 ---
 
@@ -101,27 +102,27 @@ Heart-Disease-CAD-Prediction-using-Machine-Learning/
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/your-username/Heart-Disease-CAD-Prediction-using-Machine-Learning.git
-   ```
+```
+git clone https://github.com/your-username/Heart-Disease-CAD-Prediction-using-Machine-Learning.git
+```
 
 2. Navigate to the project folder:
 
-   ```
-   cd Heart-Disease-CAD-Prediction-using-Machine-Learning
-   ```
+```
+cd Heart-Disease-CAD-Prediction-using-Machine-Learning
+```
 
 3. Install dependencies:
 
-   ```
-   pip install -r requirements.txt
-   ```
+```
+pip install -r requirements.txt
+```
 
 4. Run the notebook:
 
-   ```
-   jupyter notebook CAD-hybrid-model.ipynb
-   ```
+```
+jupyter notebook CAD-hybrid-model.ipynb
+```
 
 ---
 
