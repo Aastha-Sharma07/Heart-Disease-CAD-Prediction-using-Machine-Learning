@@ -87,15 +87,6 @@ To improve model transparency, SHAP was used to:
 
 ```
 Heart-Disease-CAD-Prediction-using-Machine-Learning/
-│── CAD-hybrid-model.ipynb
-│── requirements.txt
-│── README.md
-│── images/
-│    ├── model_comparison.png
-│    ├── confusion_matrices.png
-│    ├── shap_summary.png
-
-Heart-Disease-CAD-Prediction-using-Machine-Learning/
 │── README.md
 │
 └── Heart Disease (CAD) Prediction/
