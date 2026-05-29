@@ -47,6 +47,17 @@ These metrics provide a comprehensive understanding of model performance, especi
 
 ---
 
+## 📊 Results
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Confusion Matrices
+![Confusion Matrices](images/confusion_matrices.png)
+
+### SHAP Summary Plot
+![SHAP Summary](images/shap_summary.png)
+
 ## 🔍 Explainability
 
 To improve model transparency, SHAP was used to:
@@ -75,10 +86,14 @@ This is particularly important in healthcare-related applications.
 
 ## 📁 Project Structure
 
-cad-hybrid-model/
+Heart-Disease-CAD-Prediction-using-Machine-Learning/
 │── CAD-hybrid-model.ipynb
 │── requirements.txt
 │── README.md
+│── images/
+      ├── roc_curve.png
+      ├── confusion_matrix.png
+      ├── shap_summary.png
 
 ---
 
