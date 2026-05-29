@@ -47,15 +47,15 @@ The models were evaluated using:
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Heart%20Disease%20(CAD)%20Prediction/images/model_comparison.png)
 
 ### Confusion Matrices
 
-![Confusion Matrices](images/confusion_matrices.png)
+![Confusion Matrices](Heart%20Disease%20(CAD)%20Prediction/images/confusion_matrices.png)
 
 ### SHAP Summary Plot
 
-![SHAP Summary](images/shap_summary.png)
+![SHAP Summary](Heart%20Disease%20(CAD)%20Prediction/images/shap_summary.png)
 
 ---
 
@@ -94,6 +94,20 @@ Heart-Disease-CAD-Prediction-using-Machine-Learning/
 │    ├── model_comparison.png
 │    ├── confusion_matrices.png
 │    ├── shap_summary.png
+
+Heart-Disease-CAD-Prediction-using-Machine-Learning/
+│── README.md
+│
+└── Heart Disease (CAD) Prediction/
+      │── CAD-hybrid-model.ipynb
+      │── requirements.txt
+      │── images/
+            │── cad_feature_group.png
+            │── confusion_matrices.png
+            │── model_comparison.png
+            │── shap_importance_bar.png
+            │── shap_per_patient.png
+            │── shap_summary.png
 ```
 
 ---
@@ -103,7 +117,7 @@ Heart-Disease-CAD-Prediction-using-Machine-Learning/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Heart-Disease-CAD-Prediction-using-Machine-Learning.git
+git clone https://github.com/Aastha-Sharma07/Heart-Disease-CAD-Prediction-using-Machine-Learning.git
 ```
 
 2. Navigate to the project folder:
