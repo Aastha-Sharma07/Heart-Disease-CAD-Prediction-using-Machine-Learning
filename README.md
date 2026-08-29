@@ -1,6 +1,6 @@
-# 🫀 Heart Disease (CAD) Prediction using Machine Learning
+#  Heart Disease (CAD) Prediction using Machine Learning
 
-## 📌 Overview
+##  Overview
 
 This project focuses on predicting Coronary Artery Disease (CAD) using a structured machine learning pipeline. The objective is to leverage clinical data to identify potential heart disease risks and build a reliable predictive model.
 
@@ -8,7 +8,7 @@ The project combines data preprocessing, handling class imbalance, model trainin
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 The workflow followed in this project:
 
@@ -24,7 +24,7 @@ The workflow followed in this project:
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 * LightGBM Classifier
 * XGBoost Classifier
@@ -32,7 +32,7 @@ The workflow followed in this project:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The models were evaluated using:
 
@@ -43,7 +43,7 @@ The models were evaluated using:
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Model Comparison
 
@@ -59,7 +59,7 @@ The models were evaluated using:
 
 ---
 
-## 🔍 Explainability
+##  Explainability
 
 To improve model transparency, SHAP was used to:
 
@@ -69,7 +69,7 @@ To improve model transparency, SHAP was used to:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -83,7 +83,7 @@ To improve model transparency, SHAP was used to:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Heart-Disease-CAD-Prediction-using-Machine-Learning/
@@ -103,7 +103,7 @@ Heart-Disease-CAD-Prediction-using-Machine-Learning/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -131,7 +131,7 @@ jupyter notebook CAD-hybrid-model.ipynb
 
 ---
 
-## 📌 Key Highlights
+##  Key Highlights
 
 * End-to-end machine learning pipeline
 * Proper handling of imbalanced data using SMOTE
@@ -141,7 +141,7 @@ jupyter notebook CAD-hybrid-model.ipynb
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning for improved performance
 * Deployment using Flask or Streamlit
@@ -149,6 +149,8 @@ jupyter notebook CAD-hybrid-model.ipynb
 
 ---
 
-## 👩‍💻 Author
+##  Contributors
 
 Aastha Sharma
+Upma Shukla
+Harsh Pratap Singh Parihar
