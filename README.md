@@ -151,6 +151,6 @@ jupyter notebook CAD-hybrid-model.ipynb
 
 ##  Contributors
 
-Aastha Sharma
-Upma Shukla
-Harsh Pratap Singh Parihar
+* Aastha Sharma
+* Upma Shukla
+* Harsh Pratap Singh Parihar
